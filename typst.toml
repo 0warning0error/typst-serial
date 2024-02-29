@@ -1,0 +1,11 @@
+[package]
+name = "yast"
+version = "0.1.0"
+complier = "0.10.0"
+entrypoint = "yast.typ"
+authors = ["Zhao Yuanhang <https://github.com/0warning0error>"]
+repository = "https://github.com/0warning0error/typst-yast"
+license = "Apache-2.0"
+description = "Serialization module for Typst"
+keywords = [ "serialize", "deserialize", "Serialization" ]
+exclude = [ "example.typ" ]
